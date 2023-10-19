@@ -32,6 +32,7 @@ dependencies:
   dots_indicator: ^2.1.0
   flutter:
     sdk: flutter
+  flutter_map: ^6.0.0
   get: ^4.6.5
   intl: ^0.18.0
   persistent_bottom_nav_bar: ^5.0.2
